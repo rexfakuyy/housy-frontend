@@ -4,4 +4,4 @@ How to deploy Application housy-frontend :
 - Change url for housy-backend in src/config/api.js
 - Deploy dumbflix-frontend with port 3000
 
-By: Recky Jenkins
+By: Recky Jenkins :)
